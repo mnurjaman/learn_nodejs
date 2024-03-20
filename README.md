@@ -1,4 +1,4 @@
-![image](https://github.com/mnurjaman/learn_nodejs/assets/91449462/46365ff5-172f-4dd6-86d0-6709c411553a)# learn_nodejs
+# learn_nodejs
 Perintah dasar: 
 1. node -v -> Untuk cek versi nodejs
 2. npm -v -> Cek versi library yang akan kita gunakan dan berkaitan dengan javascript
