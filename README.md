@@ -11,7 +11,7 @@ Siapkan software: VSCode, Postman,
 3. Buat satu file dengan nama Index.js
 4. Install package json file. Perintahnya " npm init"
 5. Tambahkan script ![image](https://github.com/mnurjaman/learn_nodejs/assets/91449462/ec3ba68e-9a23-44e7-a8e8-dca3fde5c654)
-
-6. 
+   Untuk running project
 7. 
 8. 
+9. 
