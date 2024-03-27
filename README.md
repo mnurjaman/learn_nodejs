@@ -3,6 +3,7 @@ Perintah dasar:
 1. node -v -> Untuk cek versi nodejs
 2. npm -v -> Cek versi library yang akan kita gunakan dan berkaitan dengan javascript
 3. npm init -> untuk membuat package json.
+4. npm run api-service -> running project
 
 Langkah yang perlu dilakukan adalah:
 Siapkan software: VSCode, Postman, 
